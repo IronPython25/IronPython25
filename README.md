@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ironpython25&show_icons=true&locale=en&layout=compact" alt="ironpython25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ironpython25&show_icons=true&locale=en" alt="ironpython25" /></p>
+
